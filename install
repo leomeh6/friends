@@ -1,0 +1,12 @@
+#!/bin/bash
+
+clear
+
+echo you need to wait for this window to install
+echo if nothing pops up then your ok
+
+git
+
+python3 -m pip install pyfiglet
+python -m pip install pyfiglet
+echo your done
